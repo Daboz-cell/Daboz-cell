@@ -45,16 +45,7 @@ I'm a data enthusiast specialising in analysis and Data enginnering. I enjoy wor
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Anaconda](https://img.shields.io/badge/Anaconda-44A833?style=for-the-badge&logo=anaconda&logoColor=white)
 
----
 
-## 📊 GitHub Stats:
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Daboz-cell&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Daboz-cell&layout=compact&theme=tokyonight&hide_border=true" height="165" />
-</p>
-
----
 
 ## 🌐 Connect with Me:
 
